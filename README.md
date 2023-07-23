@@ -21,5 +21,5 @@ bash -c "$(wget -qO- https://raw.githubusercontent.com/Jatimpark/ray/main/xray)"
 ```
 - via CURL
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/wingshope/atimpark/ray/xray)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Jatimpark/ray/xray)"
 ```
