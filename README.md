@@ -17,9 +17,9 @@
 # Installation
 - via WGET
 ```
-bash -c "$(wget -qO- https://raw.githubusercontent.com/Jatimpark/ray/main/xray)"
+bash -c "$(wget -qO- https://raw.githubusercontent.com/Jatimpark/ray/main/setup)"
 ```
 - via CURL
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Jatimpark/ray/xray)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Jatimpark/ray/setup)"
 ```
